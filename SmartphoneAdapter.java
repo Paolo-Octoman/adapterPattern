@@ -1,5 +1,3 @@
-package softEng1;
-
 public class SmartphoneAdapter implements PowerOutlet {
 	private SmartphoneCharger smartphoneCharger;
 	
