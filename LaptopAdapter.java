@@ -1,5 +1,3 @@
-package softEng1;
-
 public class LaptopAdapter implements PowerOutlet {
 	private Laptop laptop;
 	
